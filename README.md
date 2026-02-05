@@ -6,11 +6,23 @@
 
 *I build modern, fast and accessible UIs and secure, well‑tested APIs.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianmorillasperez/ "LinkedIn")
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrirubim "GitHub")
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/adrianmorillasperez "All links")
-[![Portfolio](https://img.shields.io/badge/Portfolio-adrirubim.es-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.adrirubim.es "Portfolio")
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianmorillasperez@gmail.com "Email")
+<p>
+  <a href="https://www.linkedin.com/in/adrianmorillasperez/" title="LinkedIn" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
+  </a>
+  <a href="https://github.com/adrirubim" title="GitHub" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
+  </a>
+  <a href="https://linktr.ee/adrianmorillasperez" title="All links" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linktree.svg" alt="Linktree" width="32" height="32" />
+  </a>
+  <a href="https://www.adrirubim.es" title="Portfolio" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" width="32" height="32" />
+  </a>
+  <a href="mailto:adrianmorillasperez@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="32" height="32" />
+  </a>
+</p>
 
 </div>
 
