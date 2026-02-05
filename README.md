@@ -26,7 +26,7 @@
 
 ## About me
 
-- 🔭 **Fullstack Web Developer** — UIs with React 19, TypeScript 5.7 & Inertia.js · APIs with Laravel 12
+- 🔭 **Fullstack Web Developer** — UIs with React 19, TypeScript 5.9 & Inertia.js · APIs with Laravel 12
 - 🌍 **Based in** Barcelona, Spain · 👋 **Pronouns** he/him
 - ⚡ **Currently** building with Laravel 12, React 19 & Inertia.js
 - 🌱 Trained in web development (professional certificates: web pages & web applications)
@@ -40,16 +40,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" title="React 19"/>
-  <img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript 5.7"/>
+  <img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript 5.9"/>
   <img src="https://img.shields.io/badge/-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" title="Laravel 12"/>
   <img src="https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP 8.4"/>
-  <img src="https://img.shields.io/badge/-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" title="Inertia.js"/>
+  <img src="https://img.shields.io/badge/-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" title="Inertia.js 2"/>
   <img src="https://img.shields.io/badge/-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS 4"/>
   <img src="https://img.shields.io/badge/-191919?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" title="Radix UI"/>
   <img src="https://img.shields.io/badge/-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" title="Vite 7"/>
   <img src="https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL 14+"/>
-  <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
-  <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
   <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap"/>
   <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
