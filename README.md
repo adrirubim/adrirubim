@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Adrián Morillas Pérez! 👋
+# Hi, I'm Adrián Morillas Pérez 👋
 
-### Fullstack Web Developer (React, TypeScript & Laravel)
+### Fullstack Web Developer (React · TypeScript · Laravel)
 
-*I build modern, fast and accessible UIs and secure, well‑tested APIs.*
+*I design and build modern, fast and accessible UIs and secure, well‑tested APIs for production-ready web applications.*
 
 <p>
   <a href="https://www.linkedin.com/in/adrianmorillasperez/" title="LinkedIn" target="_blank" style="margin: 0 6px; text-decoration: none;">
@@ -27,19 +27,18 @@
 - [About me](#about-me)
 - [Tech stack](#tech-stack)
 - [Featured projects](#featured-projects)
+- [Contact](#-contact)
 
 ---
 
 ## About me
 
-- 🔭 **Fullstack Web Developer** — UIs with React 19, TypeScript 5.9 & Inertia.js · APIs with Laravel 12
+- 🔭 **Fullstack Web Developer** specialized in React, TypeScript & Laravel, building both modern frontends and robust APIs
+- 💼 **Experience** delivering real-world projects like blog CMSs and business applications (see featured projects below)
 - 🌍 **Based in** Barcelona, Spain · 👋 **Pronouns** he/him
-- ⚡ **Currently** building with Laravel 12, React 19 & Inertia.js
+- ⚡ I enjoy turning business requirements into performant, secure and maintainable web applications
 - 🌱 Trained in web development (professional certificates: web pages & web applications)
-- 💬 Ask me about **React, Laravel, TypeScript**, or web development
-- 🌐 **Portfolio:** [adrirubim.es](https://www.adrirubim.es)
-- 📫 **Reach me:** [adrianmorillasperez@gmail.com](mailto:adrianmorillasperez@gmail.com)
-- 🔗 **All links:** [linktr.ee/adrianmorillasperez](https://linktr.ee/adrianmorillasperez)
+- 💬 Ask me about **React, Laravel, TypeScript**, or modern web development
 
 ---
 
@@ -71,6 +70,17 @@
 | [Lilaballoons Barcelona](https://www.lilaballoons.es/) | **Live in production** — Event decoration & organization website. One-page site with contact form, reviews, responsive design (CP2 final project). |
 | [Proyectos Front-End](https://www.adrirubim.es/cp2/index.html) | Front-End projects — Professional certificate in web page design and publishing (IFCD0110) |
 | [Proyectos Back-End](https://www.adrirubim.es/cp3/index.html) | Back-End projects — Professional certificate in web application development (IFCD0210) |
+
+---
+
+## 📬 Contact
+
+If you’d like to talk about a project, collaboration or opportunity, feel free to reach out:
+
+- 💼 **LinkedIn**: [in/adrianmorillasperez](https://www.linkedin.com/in/adrianmorillasperez/)
+- 🌐 **Portfolio**: [adrirubim.es](https://www.adrirubim.es)
+- ✉️ **Email**: [adrianmorillasperez@gmail.com](mailto:adrianmorillasperez@gmail.com)
+- 🔗 **All links**: [linktr.ee/adrianmorillasperez](https://linktr.ee/adrianmorillasperez)
 
 ---
 
