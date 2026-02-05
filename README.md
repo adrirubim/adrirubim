@@ -7,20 +7,14 @@
 *I build modern, fast and accessible UIs and secure, well‑tested APIs.*
 
 <p>
-  <a href="https://www.linkedin.com/in/adrianmorillasperez/" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/adrianmorillasperez/" title="LinkedIn" target="_blank" style="margin: 0 6px; text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
   </a>
-  <a href="https://github.com/adrirubim" title="GitHub" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
+  <a href="https://www.adrirubim.es" title="Portfolio" target="_blank" style="margin: 0 6px; text-decoration: none;">
+    <img src="https://api.iconify.design/fxemoji:folder.svg?width=32&height=32" alt="Portfolio" width="32" height="32" />
   </a>
-  <a href="https://linktr.ee/adrianmorillasperez" title="All links" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linktree.svg" alt="Linktree" width="32" height="32" />
-  </a>
-  <a href="https://www.adrirubim.es" title="Portfolio" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" width="32" height="32" />
-  </a>
-  <a href="mailto:adrianmorillasperez@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="32" height="32" />
+  <a href="mailto:adrianmorillasperez@gmail.com" title="Email" style="margin: 0 6px; text-decoration: none;">
+    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="36" height="28" />
   </a>
 </p>
 
@@ -43,6 +37,7 @@
 - ⚡ **Currently** building with Laravel 12, React 19 & Inertia.js
 - 🌱 Trained in web development (professional certificates: web pages & web applications)
 - 💬 Ask me about **React, Laravel, TypeScript**, or web development
+- 🌐 **Portfolio:** [adrirubim.es](https://www.adrirubim.es)
 - 📫 **Reach me:** [adrianmorillasperez@gmail.com](mailto:adrianmorillasperez@gmail.com)
 - 🔗 **All links:** [linktr.ee/adrianmorillasperez](https://linktr.ee/adrianmorillasperez)
 
