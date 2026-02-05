@@ -39,20 +39,18 @@
 ## Tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" title="React 19"/>
-  <img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript 5.9"/>
-  <img src="https://img.shields.io/badge/-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" title="Laravel 12"/>
-  <img src="https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP 8.4"/>
-  <img src="https://img.shields.io/badge/-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" title="Inertia.js 2"/>
-  <img src="https://img.shields.io/badge/-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS 4"/>
-  <img src="https://img.shields.io/badge/-191919?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" title="Radix UI"/>
-  <img src="https://img.shields.io/badge/-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" title="Vite 7"/>
-  <img src="https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL 14+"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
-  <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap"/>
-  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"               alt="React"       title="React"       width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"   alt="TypeScript"  title="TypeScript"  width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"            alt="Laravel"     title="Laravel"     width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"                 alt="PHP"         title="PHP"         width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   alt="JavaScript"  title="JavaScript"  width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"             alt="HTML5"       title="HTML5"       width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"               alt="CSS3"        title="CSS3"        width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"               alt="Vite"        title="Vite"        width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"   alt="PostgreSQL"  title="PostgreSQL"  width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"     alt="Bootstrap"   title="Bootstrap"   width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"                 alt="Git"         title="Git"         width="40" height="40" />
 </p>
 
 ---
