@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/header-banner.png" alt="Adrián Morillas Pérez — Full-Stack Developer · React · TypeScript · Laravel" width="100%" />
+
+</div>
+
+<div align="center">
+
 # Hi, I'm Adrián Morillas Pérez 👋
 
 ### Fullstack Web Developer (React · TypeScript · Laravel)
