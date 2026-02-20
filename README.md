@@ -15,7 +15,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
   </a>
   <a href="https://www.adrirubim.es" title="Portfolio" target="_blank" style="margin: 0 6px; text-decoration: none;">
-    <img src="https://api.iconify.design/codicon:link-external.svg?width=32&height=32" alt="Portfolio" width="32" height="32" />
+    <img src="https://api.iconify.design/fxemoji:folder.svg?width=32&height=32" alt="Portfolio" width="32" height="32" />
   </a>
   <a href="mailto:adrianmorillasperez@gmail.com" title="Email" style="margin: 0 6px; text-decoration: none;">
     <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="36" height="28" />
@@ -32,8 +32,6 @@
 - [Tech stack](#tech-stack)
 - [Featured projects](#featured-projects)
 - [Contact](#-contact)
-
-> *Fast, scalable & secure web applications* — from idea to production.
 
 ---
 
