@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="assets/header-banner.png" alt="Adrián Morillas Pérez — Full-Stack Developer · React · TypeScript · Laravel" width="100%" />
+<img src="assets/header-banner.png" alt="Adrián Morillas Pérez — Full-Stack Developer · React · TypeScript · Laravel" width="100%" style="max-width: 880px; max-height: 200px; height: auto; border-radius: 12px;" />
 
 </div>
 
 <div align="center">
 
-# Hi, I'm Adrián Morillas Pérez 👋
-
-### Fullstack Web Developer (React · TypeScript · Laravel)
+### 👋 Hi there
 
 *I design and build modern, fast and accessible UIs and secure, well‑tested APIs for production-ready web applications.*
 
@@ -17,7 +15,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
   </a>
   <a href="https://www.adrirubim.es" title="Portfolio" target="_blank" style="margin: 0 6px; text-decoration: none;">
-    <img src="https://api.iconify.design/fxemoji:folder.svg?width=32&height=32" alt="Portfolio" width="32" height="32" />
+    <img src="https://api.iconify.design/codicon:link-external.svg?width=32&height=32" alt="Portfolio" width="32" height="32" />
   </a>
   <a href="mailto:adrianmorillasperez@gmail.com" title="Email" style="margin: 0 6px; text-decoration: none;">
     <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="36" height="28" />
@@ -35,16 +33,18 @@
 - [Featured projects](#featured-projects)
 - [Contact](#-contact)
 
+> *Fast, scalable & secure web applications* — from idea to production.
+
 ---
 
 ## About me
 
-- 🔭 **Fullstack Web Developer** specialized in React, TypeScript & Laravel, building both modern frontends and robust APIs
-- 💼 **Experience** delivering real-world projects like blog CMSs and business applications (see featured projects below)
+- 🔭 **Full-Stack Developer** — React, TypeScript & Laravel: modern frontends and robust APIs
+- 💼 **Experience** delivering production apps: blog CMSs, business portals, and public-facing sites (see below)
 - 🌍 **Based in** Barcelona, Spain · 👋 **Pronouns** he/him
-- ⚡ I enjoy turning business requirements into performant, secure and maintainable web applications
-- 🌱 Trained in web development (professional certificates: web pages & web applications)
-- 💬 Ask me about **React, Laravel, TypeScript**, or modern web development
+- ⚡ I turn business requirements into performant, secure, and maintainable web applications
+- 🌱 Professional certificates in web design (IFCD0110) and web application development (IFCD0210)
+- 💬 Ask me about **React**, **Laravel**, **TypeScript**, or modern full-stack development
 
 ---
 
