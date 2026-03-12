@@ -71,7 +71,7 @@
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [Triton Client Manager](https://github.com/adrirubim/triton_client_manager) | Python 3.12 · FastAPI · WebSockets · Docker · OpenStack · NVIDIA Triton | Orchestration service for AI inference with threaded workers, per‑user job queues, and smoke/regression/integration tests. |
+| [Triton Client Manager](https://github.com/adrirubim/triton_client_manager) ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python&logoColor=white) | Python 3.12 · FastAPI · WebSockets · Docker · OpenStack · NVIDIA Triton | Orchestration service for AI inference with threaded workers, per‑user job queues, and smoke/regression/integration tests. |
 | [c41.ch-be](https://github.com/adrirubim/c41.ch-be) ![TS Strict](https://img.shields.io/badge/TypeScript-Strict-3178c6?style=flat&logo=typescript&logoColor=white) | Laravel 12 · React 19 (Inertia.js) · TypeScript (strict) · Vite 7 · CI/CD | Clean Architecture + DDD, modular decoupled core, shared RichText components, and pipelines (GitHub Actions, Pint, ESLint). |
 | [laser-packaging-laravel](https://github.com/adrirubim/laser-packaging-laravel) ![Tests](https://img.shields.io/badge/PHP%20tests-1000%2B-brightgreen?style=flat&logo=php&logoColor=white) | Laravel 12 · React 19 (Inertia.js) · PostgreSQL · PHP tests · Vitest · GitHub Actions | Offers/articles/orders + production portal (web + API), **1000+ PHP tests**, coverage, test DB, linting and type-checking. |
 | [Lilaballoons Barcelona](https://www.lilaballoons.es/) ![LIVE](https://img.shields.io/badge/Live-Production-brightgreen?style=flat) | Static site · Responsive UI · Contact form | **Live in production** — One-page site with reviews and responsive design (CP2 final project). |
