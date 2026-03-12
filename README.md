@@ -11,14 +11,14 @@
 *I design and build modern, fast and accessible UIs and secure, well‑tested APIs for production-ready web applications.*
 
 <p>
-  <a href="https://www.linkedin.com/in/adrianmorillasperez/" title="LinkedIn" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://api.iconify.design" alt="LinkedIn" width="32" height="32" />
+  <a href="https://www.linkedin.com/in/adrianmorillasperez/" title="LinkedIn" target="_blank" style="margin: 0 6px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
   </a>
-  <a href="https://www.adrirubim.es" title="Portfolio" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://api.iconify.design" alt="Portfolio" width="32" height="32" />
+  <a href="https://www.adrirubim.es" title="Portfolio" target="_blank" style="margin: 0 6px; text-decoration: none;">
+    <img src="https://api.iconify.design/fxemoji:folder.svg?width=32&height=32" alt="Portfolio" width="32" height="32" />
   </a>
-  <a href="mailto:adrianmorillasperez@gmail.com" title="Email" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="32" height="32" />
+  <a href="mailto:adrianmorillasperez@gmail.com" title="Email" style="margin: 0 6px; text-decoration: none;">
+    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="36" height="28" />
   </a>
 </p>
 
@@ -71,12 +71,12 @@
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [Triton Client Manager](https://github.com/adrirubim/triton_client_manager) [![CI](https://github.com/adrirubim/triton_client_manager/actions/workflows/ci.yml/badge.svg?style=for-the-badge)](https://github.com/adrirubim/triton_client_manager/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge) | Python 3.12 · FastAPI · WebSockets · Docker · OpenStack · NVIDIA Triton | Orchestration service for AI inference with threaded workers, per‑user job queues, and smoke/regression/integration tests. |
-| [c41.ch-be](https://github.com/adrirubim/c41.ch-be) [![CI](https://github.com/adrirubim/c41.ch-be/actions/workflows/ci.yml/badge.svg?style=for-the-badge)](https://github.com/adrirubim/c41.ch-be/actions/workflows/ci.yml) ![Laravel](https://img.shields.io/badge/Laravel-12-ff2d20?style=for-the-badge) ![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react&logoColor=061923) | Laravel 12 · React 19 (Inertia.js) · TypeScript (strict) · Vite 7 · CI/CD | Clean Architecture + DDD, modular decoupled core, shared RichText components, and pipelines (GitHub Actions, Pint, ESLint). |
-| [laser-packaging-laravel](https://github.com/adrirubim/laser-packaging-laravel) [![CI](https://github.com/adrirubim/laser-packaging-laravel/actions/workflows/ci.yml/badge.svg?style=for-the-badge)](https://github.com/adrirubim/laser-packaging-laravel/actions/workflows/ci.yml) ![Tests](https://img.shields.io/badge/PHP%20tests-1000%2B-brightgreen?style=for-the-badge) | Laravel 12 · React 19 (Inertia.js) · PostgreSQL · PHP tests · Vitest · GitHub Actions | Offers/articles/orders + production portal (web + API), **1000+ PHP tests**, coverage, test DB, linting and type-checking. |
-| [Lilaballoons Barcelona](https://www.lilaballoons.es/) [![LIVE](https://img.shields.io/badge/Live-Production-brightgreen?style=for-the-badge)](https://www.lilaballoons.es/) | Static site · Responsive UI · Contact form | **Live in production** — One-page site with reviews and responsive design (CP2 final project). |
-| [Proyectos Front-End](https://www.adrirubim.es/cp2/index.html) ![Certificate](https://img.shields.io/badge/IFCD0110-Front--End-blue?style=for-the-badge) ![HTML/CSS/JS](https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JS-Stack-orange?style=for-the-badge) | HTML · CSS · JavaScript | Front-End projects — Professional certificate in web page design and publishing (IFCD0110). |
-| [Proyectos Back-End](https://www.adrirubim.es/cp3/index.html) ![Certificate](https://img.shields.io/badge/IFCD0210-Back--End-blue?style=for-the-badge) ![PHP/Laravel](https://img.shields.io/badge/PHP%20%2F%20Laravel-Stack-777bb4?style=for-the-badge) | PHP · Laravel · SQL | Back-End projects — Professional certificate in web application development (IFCD0210). |
+| [Triton Client Manager](https://github.com/adrirubim/triton_client_manager) [![CI](https://github.com/adrirubim/triton_client_manager/actions/workflows/ci.yml/badge.svg?style=flat&label=CI)](https://github.com/adrirubim/triton_client_manager/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python&logoColor=white) | Python 3.12 · FastAPI · WebSockets · Docker · OpenStack · NVIDIA Triton | Orchestration service for AI inference with threaded workers, per‑user job queues, and smoke/regression/integration tests. |
+| [c41.ch-be](https://github.com/adrirubim/c41.ch-be) [![CI](https://github.com/adrirubim/c41.ch-be/actions/workflows/ci.yml/badge.svg?style=flat&label=CI)](https://github.com/adrirubim/c41.ch-be/actions/workflows/ci.yml) ![Laravel](https://img.shields.io/badge/Laravel-12-ff2d20?style=flat&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-19-61dafb?style=flat&logo=react&logoColor=061923) | Laravel 12 · React 19 (Inertia.js) · TypeScript (strict) · Vite 7 · CI/CD | Clean Architecture + DDD, modular decoupled core, shared RichText components, and pipelines (GitHub Actions, Pint, ESLint). |
+| [laser-packaging-laravel](https://github.com/adrirubim/laser-packaging-laravel) [![CI](https://github.com/adrirubim/laser-packaging-laravel/actions/workflows/ci.yml/badge.svg?style=flat&label=CI)](https://github.com/adrirubim/laser-packaging-laravel/actions/workflows/ci.yml) ![Tests](https://img.shields.io/badge/PHP%20tests-1000%2B-brightgreen?style=flat&logo=php&logoColor=white) | Laravel 12 · React 19 (Inertia.js) · PostgreSQL · PHP tests · Vitest · GitHub Actions | Offers/articles/orders + production portal (web + API), **1000+ PHP tests**, coverage, test DB, linting and type-checking. |
+| [Lilaballoons Barcelona](https://www.lilaballoons.es/) [![LIVE](https://img.shields.io/badge/Live-Production-brightgreen?style=flat)](https://www.lilaballoons.es/) | Static site · Responsive UI · Contact form | **Live in production** — One-page site with reviews and responsive design (CP2 final project). |
+| [Proyectos Front-End](https://www.adrirubim.es/cp2/index.html) ![Certificate](https://img.shields.io/badge/IFCD0110-Front--End-blue?style=flat) ![HTML/CSS/JS](https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JS-Stack-orange?style=flat) | HTML · CSS · JavaScript | Front-End projects — Professional certificate in web page design and publishing (IFCD0110). |
+| [Proyectos Back-End](https://www.adrirubim.es/cp3/index.html) ![Certificate](https://img.shields.io/badge/IFCD0210-Back--End-blue?style=flat) ![PHP/Laravel](https://img.shields.io/badge/PHP%20%2F%20Laravel-Stack-777bb4?style=flat) | PHP · Laravel · SQL | Back-End projects — Professional certificate in web application development (IFCD0210). |
 
 ---
 
