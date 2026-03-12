@@ -18,7 +18,7 @@
     <img src="https://api.iconify.design/fxemoji:folder.svg?width=32&height=32" alt="Portfolio" width="32" height="32" />
   </a>
   <a href="mailto:adrianmorillasperez@gmail.com" title="Email" style="margin: 0 6px; text-decoration: none;">
-    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="32" height="32" />
+    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="36" height="28" />
   </a>
 </p>
 
