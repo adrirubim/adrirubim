@@ -31,6 +31,8 @@
 - [About me](#about-me)
 - [Tech stack](#tech-stack)
 - [Featured projects](#featured-projects)
+- [Key metrics](#key-metrics)
+- [Current focus](#current-focus)
 - [Contact](#-contact)
 
 ---
@@ -71,12 +73,21 @@
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [Triton Client Manager](https://github.com/adrirubim/triton_client_manager) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) | Python · FastAPI · WebSockets · Docker · OpenStack · NVIDIA Triton | Orchestration service for AI inference with threaded workers, per‑user job queues, and smoke/regression/integration tests. |
-| [c41.ch-be](https://github.com/adrirubim/c41.ch-be) ![TS Strict](https://img.shields.io/badge/TypeScript-Strict-3178c6?style=flat&logo=typescript&logoColor=white) | Laravel 13 · React 19 · Inertia.js · TypeScript (strict) · Vite · PostgreSQL | Clean Architecture + DDD, modular decoupled core, shared RichText components, plus CI quality gates (GitHub Actions, Pint, ESLint). |
-| [laser-packaging-laravel](https://github.com/adrirubim/laser-packaging-laravel) ![Tests](https://img.shields.io/badge/PHP%20tests-1000%2B-brightgreen?style=flat&logo=php&logoColor=white) | Laravel 13 · React 19 · Inertia.js · TypeScript · Vite · PostgreSQL | Offers/articles/orders + production portal (web + API), **1000+ PHP tests**, Vitest, and CI quality gates (GitHub Actions, lint, type-checking). |
-| [Lilaballoons Barcelona](https://www.lilaballoons.es/) ![LIVE](https://img.shields.io/badge/Live-Production-brightgreen?style=flat) | Static site · Responsive UI · Contact form | **Live in production** — One-page site with reviews and responsive design (CP2 final project). |
-| [Proyectos Front-End](https://www.adrirubim.es/cp2/index.html) ![Certificate](https://img.shields.io/badge/IFCD0110-Front--End-blue?style=flat) | HTML · CSS · JavaScript | Front-End projects — Professional certificate in web page design and publishing (IFCD0110). |
-| [Proyectos Back-End](https://www.adrirubim.es/cp3/index.html) ![Certificate](https://img.shields.io/badge/IFCD0210-Back--End-blue?style=flat) | PHP · Laravel · SQL | Back-End projects — Professional certificate in web application development (IFCD0210). |
+| [Triton Client Manager](https://github.com/adrirubim/triton_client_manager) | Python · FastAPI · WebSockets · Docker · OpenStack · NVIDIA Triton | Orchestration service for AI inference with threaded workers, per‑user job queues, and smoke/regression/integration tests. |
+| [c41.ch-be](https://github.com/adrirubim/c41.ch-be) | Laravel 13 · React 19 · Inertia.js · TypeScript (strict) · Vite · PostgreSQL | Clean Architecture + DDD, modular decoupled core, shared RichText components, plus CI quality gates (GitHub Actions, Pint, ESLint). |
+| [laser-packaging-laravel](https://github.com/adrirubim/laser-packaging-laravel) | Laravel 13 · React 19 · Inertia.js · TypeScript · Vite · PostgreSQL | Offers/articles/orders + production portal (web + API), Vitest, and CI quality gates (GitHub Actions, lint, type-checking). |
+| [Lilaballoons Barcelona](https://www.lilaballoons.es/) | Static site · Responsive UI · Contact form | **Live in production** — One-page site with reviews and responsive design (CP2 final project). |
+| [Proyectos Front-End](https://www.adrirubim.es/cp2/index.html) | HTML · CSS · JavaScript | Front-End projects — Professional certificate in web page design and publishing (IFCD0110). |
+| [Proyectos Back-End](https://www.adrirubim.es/cp3/index.html) | PHP · Laravel · SQL | Back-End projects — Professional certificate in web application development (IFCD0210). |
+
+---
+
+## Key metrics
+
+- ✅ [triton_client_manager](https://github.com/adrirubim/triton_client_manager): **2** ops endpoints (`/health`, `/metrics`) · **3** job types (info · management · inference) · **2** inference protocols (HTTP · gRPC) · **3** validation suites (smoke · regression · integration)
+- ✅ [c41.ch-be](https://github.com/adrirubim/c41.ch-be): **57 tests** · **241 assertions** · **4** CI gates · **60–70%** fewer re-renders · **WCAG 2.1 AA**
+- ✅ [laser-packaging-laravel](https://github.com/adrirubim/laser-packaging-laravel): **1017+ PHP tests** · **24 Vitest tests** · **6841+ assertions** · **4** CI gates (tests · lint · types · build)
+- ✅ [Lilaballoons Barcelona](https://www.lilaballoons.es/): **+200%** organic traffic & inbound leads (QoQ) after launch
 
 ---
 
@@ -108,6 +119,10 @@ I'm currently open to new challenges, high‑impact collaborations, and Senior F
 ---
 
 Thanks for visiting my profile! 🚀
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adrirubim&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=adrirubim&color=blueviolet&style=flat-square&label=profile%20views)
 
