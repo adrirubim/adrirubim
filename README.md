@@ -10,7 +10,19 @@
 
 *I design and build modern, fast and accessible UIs and secure, well‑tested APIs for production-ready web applications.*
 
-<p align="center"><a href="https://www.linkedin.com/in/adrianmorillasperez/" title="LinkedIn" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" /></a>&nbsp;&nbsp;<a href="https://www.adrirubim.es" title="Portfolio" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/fxemoji:folder.svg?width=32&height=32" alt="Portfolio" width="32" height="32" /></a>&nbsp;&nbsp;<a href="mailto:adrianmorillasperez@gmail.com" title="Email"><img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="36" height="28" /></a></p>
+<table role="presentation" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width: 220px; table-layout: fixed; border-collapse: collapse; border: 0; border-spacing: 0; margin: 0 auto;">
+  <tr>
+    <td align="center" valign="middle" style="border: 0; padding: 0 6px;">
+      <a href="https://www.linkedin.com/in/adrianmorillasperez/" title="LinkedIn" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" /></a>
+    </td>
+    <td align="center" valign="middle" style="border: 0; padding: 0 6px;">
+      <a href="https://www.adrirubim.es" title="Portfolio" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/fxemoji:folder.svg?width=32&height=32" alt="Portfolio" width="32" height="32" /></a>
+    </td>
+    <td align="center" valign="middle" style="border: 0; padding: 0 6px;">
+      <a href="mailto:adrianmorillasperez@gmail.com" title="Email"><img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="36" height="28" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -40,7 +52,21 @@
 
 ## Tech stack
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="36" height="36" />&nbsp;<img src="https://api.iconify.design/simple-icons:inertia.svg?color=%235b4bff" alt="Inertia.js" title="Inertia.js" width="36" height="36" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="36" height="36" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="36" height="36" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="36" height="36" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></p>
+<table role="presentation" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width: 520px; table-layout: fixed; border-collapse: collapse; border: 0; border-spacing: 0; margin: 0 auto;">
+  <tr>
+    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></td>
+    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="36" height="36" /></td>
+    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://api.iconify.design/simple-icons:inertia.svg?color=%235b4bff" alt="Inertia.js" title="Inertia.js" width="36" height="36" /></td>
+    <td style="border: 0;"></td>
+    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="36" height="36" /></td>
+    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="36" height="36" /></td>
+    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36" /></td>
+    <td style="border: 0;"></td>
+    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="36" height="36" /></td>
+    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></td>
+    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></td>
+  </tr>
+</table>
 
 ---
 
