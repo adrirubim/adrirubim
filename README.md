@@ -52,19 +52,20 @@
 
 ## Tech stack
 
-<table role="presentation" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width: 520px; table-layout: fixed; border-collapse: collapse; border: 0; border-spacing: 0; margin: 0 auto;">
+<table role="presentation" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width: 520px; table-layout: fixed; border-collapse: collapse; border: 0 !important; border-spacing: 0; margin: 0 auto;">
   <tr>
-    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></td>
-    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="36" height="36" /></td>
-    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://api.iconify.design/simple-icons:inertia.svg?color=%235b4bff" alt="Inertia.js" title="Inertia.js" width="36" height="36" /></td>
-    <td style="border: 0;"></td>
-    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="36" height="36" /></td>
-    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="36" height="36" /></td>
-    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36" /></td>
-    <td style="border: 0;"></td>
-    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="36" height="36" /></td>
-    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></td>
-    <td align="center" valign="middle" style="border: 0; padding: 0 2px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></td>
+    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="44" height="44" /></td>
+    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="44" height="44" /></td>
+    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://api.iconify.design/simple-icons:inertia.svg?color=%235b4bff" alt="Inertia.js" title="Inertia.js" width="44" height="44" /></td>
+    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="44" height="44" /></td>
+    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="44" height="44" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="44" height="44" /></td>
+    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="44" height="44" /></td>
+    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="44" height="44" /></td>
+    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="44" height="44" /></td>
+    <td style="border: none !important;"></td>
   </tr>
 </table>
 
