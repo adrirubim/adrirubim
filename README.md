@@ -10,16 +10,10 @@
 
 *I design and build modern, fast and accessible UIs and secure, well‑tested APIs for production-ready web applications.*
 
-<p>
-  <a href="https://www.linkedin.com/in/adrianmorillasperez/" title="LinkedIn" target="_blank" style="margin: 0 6px; text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
-  </a>
-  <a href="https://www.adrirubim.es" title="Portfolio" target="_blank" style="margin: 0 6px; text-decoration: none;">
-    <img src="https://api.iconify.design/fxemoji:folder.svg?width=32&height=32" alt="Portfolio" width="32" height="32" />
-  </a>
-  <a href="mailto:adrianmorillasperez@gmail.com" title="Email" style="margin: 0 6px; text-decoration: none;">
-    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="36" height="28" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrianmorillasperez/" title="LinkedIn" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" /></a>&nbsp;&nbsp;
+  <a href="https://www.adrirubim.es" title="Portfolio" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/fxemoji:folder.svg?width=32&height=32" alt="Portfolio" width="32" height="32" /></a>&nbsp;&nbsp;
+  <a href="mailto:adrianmorillasperez@gmail.com" title="Email"><img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="36" height="28" /></a>
 </p>
 
 </div>
@@ -51,20 +45,17 @@
 ## Tech stack
 
 <p align="center">
-  <!-- Frontend Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  alt="TypeScript"  title="TypeScript"  width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"            alt="React"       title="React"       width="50" height="50" />
-  <img src="https://api.iconify.design/simple-icons:inertia.svg?color=%235b4bff"                    alt="Inertia.js"  title="Inertia.js"  width="50" height="50" />
-
-  <!-- Backend & Logic -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"       alt="Laravel"     title="Laravel"     width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"               alt="PHP"         title="PHP"         width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"         alt="Python"      title="Python"      width="50" height="50" />
-
-  <!-- Data & Infra -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"         alt="Docker"      title="Docker"      width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"  title="PostgreSQL"  width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="44" height="44" />&nbsp;
+  <img src="https://api.iconify.design/simple-icons:inertia.svg?color=%235b4bff" alt="Inertia.js" title="Inertia.js" width="44" height="44" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="44" height="44" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="44" height="44" />
 </p>
 
 ---
