@@ -52,20 +52,21 @@
 
 ## Tech stack
 
-<table role="presentation" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width: 520px; table-layout: fixed; border-collapse: collapse; border: 0 !important; border-spacing: 0; margin: 0 auto;">
+<table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="44" height="44" /></td>
-    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="44" height="44" /></td>
-    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://api.iconify.design/simple-icons:inertia.svg?color=%235b4bff" alt="Inertia.js" title="Inertia.js" width="44" height="44" /></td>
-    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="44" height="44" /></td>
-    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="44" height="44" /></td>
+    <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="44" height="44" /></td>
+    <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="44" height="44" /></td>
+    <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="44" height="44" /></td>
   </tr>
   <tr>
-    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="44" height="44" /></td>
-    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="44" height="44" /></td>
-    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="44" height="44" /></td>
-    <td align="center" valign="middle" style="border: none !important; padding: 2px 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="44" height="44" /></td>
-    <td style="border: none !important;"></td>
+    <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="44" height="44" /></td>
+    <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="44" height="44" /></td>
+    <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="44" height="44" /></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="44" height="44" /></td>
+    <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="44" height="44" /></td>
+    <td align="center" style="padding: 6px 12px;"><img src="https://api.iconify.design/simple-icons:githubactions.svg?color=%232088FF" alt="GitHub Actions" title="GitHub Actions" width="44" height="44" /></td>
   </tr>
 </table>
 
