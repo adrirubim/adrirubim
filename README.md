@@ -78,8 +78,8 @@
 |---------|-------|------------|
 | [Triton Client Manager](https://github.com/adrirubim/triton_client_manager) | Python · FastAPI · WebSockets · Docker · OpenStack · NVIDIA Triton | Orchestration service for AI inference with threaded workers, per‑user job queues, and smoke/regression/integration tests. |
 | [RC Simulator](https://github.com/adrirubim/rc_simulator) | Python · Qt/PySide6 · UDP · Linux/WSLg · (optional) GStreamer | Desktop UI + headless ops mode, CI‑parity local gate (`./scripts/dev-verify.sh`), and OS integration (Linux launcher/systemd + Windows shortcut via WSL). |
-| [c41.ch-be](https://github.com/adrirubim/c41.ch-be) | Laravel 13 · React 19 · Inertia.js · TypeScript (strict) · Vite · PostgreSQL | Clean Architecture + DDD, modular decoupled core, shared RichText components, plus CI quality gates (GitHub Actions, Pint, ESLint). |
-| [laser-packaging-laravel](https://github.com/adrirubim/laser-packaging-laravel) | Laravel 13 · React 19 · Inertia.js · TypeScript · Vite · PostgreSQL | Offers/articles/orders + production portal (web + API), Vitest, and CI quality gates (GitHub Actions, lint, type-checking). |
+| [c41.ch-be](https://github.com/adrirubim/c41.ch-be) | Laravel · React · Inertia.js · TypeScript (strict) · Vite · PostgreSQL | Clean Architecture + DDD, modular decoupled core, shared RichText components, plus CI quality gates (GitHub Actions, Pint, ESLint). |
+| [laser-packaging-laravel](https://github.com/adrirubim/laser-packaging-laravel) | Laravel · React · Inertia.js · TypeScript (strict) · Vite · PostgreSQL | Offers/articles/orders + production portal (web + API), Vitest, and CI quality gates (GitHub Actions, lint, type-checking). |
 | [Lilaballoons Barcelona](https://www.lilaballoons.es/) | Static site · Responsive UI · Contact form | **Live in production** — One-page site with reviews and responsive design (CP2 final project). |
 | [Proyectos Front-End](https://www.adrirubim.es/cp2/index.html) | HTML · CSS · JavaScript | Front-End projects — Professional certificate in web page design and publishing (IFCD0110). |
 | [Proyectos Back-End](https://www.adrirubim.es/cp3/index.html) | PHP · Laravel · SQL | Back-End projects — Professional certificate in web application development (IFCD0210). |
@@ -89,9 +89,8 @@
 ## Key metrics
 
 - ✅ [triton_client_manager](https://github.com/adrirubim/triton_client_manager): **2** ops endpoints (`/health`, `/metrics`) · **3** job types (info · management · inference) · **2** inference protocols (HTTP · gRPC) · **3** validation suites (smoke · regression · integration) · **1** Prometheus+Grafana dashboard
-- ✅ [rc_simulator](https://github.com/adrirubim/rc_simulator): **v1.0.0** (Stable) · **2** entrypoints (UI + headless) · **3** CI workflows (lint · tests · security) · **2** one‑click installers (Windows + Linux) · **1** CI‑parity gate (`./scripts/dev-verify.sh`)
 - ✅ [c41.ch-be](https://github.com/adrirubim/c41.ch-be): **57 tests** · **241 assertions** · **4** CI gates · **60–70%** fewer re-renders · **WCAG 2.1 AA**
-- ✅ [laser-packaging-laravel](https://github.com/adrirubim/laser-packaging-laravel): **1017+ PHP tests** · **24 Vitest tests** · **6841+ assertions** · **4** CI gates (tests · lint · types · build) · performance suite (concurrency · load · API)
+- ✅ [laser-packaging-laravel](https://github.com/adrirubim/laser-packaging-laravel): **1017+ PHP tests** · **24 Vitest tests** · **6841+ assertions** · **4** CI gates · performance suite (concurrency · load · API)
 - ✅ [Lilaballoons Barcelona](https://www.lilaballoons.es/): **+200%** organic traffic & inbound leads (QoQ) after launch
 
 ---
