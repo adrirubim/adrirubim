@@ -33,6 +33,7 @@
 - [About me](#about-me)
 - [Tech stack](#tech-stack)
 - [Featured projects](#featured-projects)
+- [Other projects](#other-projects)
 - [Key metrics](#key-metrics)
 - [Current focus](#current-focus)
 - [Contact](#-contact)
@@ -45,6 +46,7 @@
 - 💼 **Experience** delivering production apps: blog CMSs, business portals, production portals and AI orchestration services (see featured projects below)
 - 🌍 **Based in** Barcelona, Spain · 👋 **Pronouns** he/him
 - ⚡ I turn business requirements into performant, secure, and maintainable web applications, with strong focus on testing and CI/CD
+- 🎛️ I also build performance-oriented web experiences (Three.js, PWA/offline-first) with a strong focus on smooth UX and asset optimization
 - 🌱 Professional certificates in web design (IFCD0110) and web application development (IFCD0210)
 - 💬 Ask me about **React**, **Laravel**, **TypeScript**, **FastAPI/Python**, or modern full-stack & API development
 
@@ -56,7 +58,12 @@
   <tr>
     <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="44" height="44" /></td>
     <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="44" height="44" /></td>
+    <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" title="Three.js" width="44" height="44" /></td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="TailwindCSS" width="44" height="44" /></td>
+    <td align="center" style="padding: 6px 12px;"><img src="https://api.iconify.design/simple-icons:greensock.svg?color=%2388CE02" alt="GSAP" title="GSAP" width="44" height="44" /></td>
+    <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="44" height="44" /></td>
   </tr>
   <tr>
     <td align="center" style="padding: 6px 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="44" height="44" /></td>
@@ -76,13 +83,19 @@
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [Triton Client Manager](https://github.com/adrirubim/triton_client_manager) | Python · FastAPI · WebSockets · Docker · OpenStack · NVIDIA Triton | Orchestration service for AI inference with threaded workers, per‑user job queues, and smoke/regression/integration tests. |
+| [Triton Client Manager](https://github.com/adrirubim/triton_client_manager) | Python · FastAPI · WebSockets · Docker · OpenStack · NVIDIA Triton | Orchestration service for AI inference with **zero-copy SHM**, per‑user queues, and Prometheus/Grafana observability. |
 | [RC Simulator](https://github.com/adrirubim/rc_simulator) | Python · Qt/PySide6 · UDP · Linux/WSLg · (optional) GStreamer | Desktop UI + headless ops mode, CI‑parity local gate (`./scripts/dev-verify.sh`), and OS integration (Linux launcher/systemd + Windows shortcut via WSL). |
 | [c41.ch-be](https://github.com/adrirubim/c41.ch-be) | Laravel · React · Inertia.js · TypeScript (strict) · Vite · PostgreSQL | Clean Architecture + DDD, modular decoupled core, shared RichText components, plus CI quality gates (GitHub Actions, Pint, ESLint). |
 | [laser-packaging-laravel](https://github.com/adrirubim/laser-packaging-laravel) | Laravel · React · Inertia.js · TypeScript (strict) · Vite · PostgreSQL | Offers/articles/orders + production portal (web + API), Vitest, and CI quality gates (GitHub Actions, lint, type-checking). |
-| [Lilaballoons Barcelona](https://www.lilaballoons.es/) | Static site · Responsive UI · Contact form | **Live in production** — One-page site with reviews and responsive design (CP2 final project). |
-| [Proyectos Front-End](https://www.adrirubim.es/cp2/index.html) | HTML · CSS · JavaScript | Front-End projects — Professional certificate in web page design and publishing (IFCD0110). |
-| [Proyectos Back-End](https://www.adrirubim.es/cp3/index.html) | PHP · Laravel · SQL | Back-End projects — Professional certificate in web application development (IFCD0210). |
+| [3D Web Experience](https://github.com/adrirubim/iglu) | Vanilla ESM · Three.js · GSAP · PWA · (optional) PHP | Minimal, high-performance 3D web experience with optimized assets (KTX2/Draco/MSDF) and offline-first delivery. |
+| [Lilaballoons Barcelona](https://www.lilaballoons.es/) | Static site · Responsive UI · Contact form | **Production** — High-converting one-page site with responsive UX, reviews, and a lead-focused contact flow. |
+
+---
+
+## Other projects
+
+- [Front-End projects (IFCD0110)](https://www.adrirubim.es/cp2/index.html)
+- [Back-End projects (IFCD0210)](https://www.adrirubim.es/cp3/index.html)
 
 ---
 
